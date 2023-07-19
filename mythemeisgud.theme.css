@@ -1,0 +1,72 @@
+/**
+ * @name mythemeisgud
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Made by iAmBot.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://wallpaperaccess.com/full/869905.gif');
+  --background-image-blur: 2px;
+  --background-image-size: 100%;
+  --background-image-position: center;
+  --popout-image: url('https://media.tenor.com/gNJvOlxRO4oAAAAM/mimikyu.gif');
+  --popout-image-blur: 2px;
+  --popout-image-size: 100%;
+  --popout-image-position: center;
+  --overlay-image: url('https://media.tenor.com/4uPJsA8k1KEAAAAC/pokemon-pikachu.gif');
+  --overlay-image-blur: 2px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gifdb.com/images/high/discord-pfp-logo-tired-cat-9vh3bh1hfgeotscx.gif');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.6;
+  --left-brightness: 0.6;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --overlay-brightness: 0.75;
+  --gradient-primary: 33,128,140;
+  --gradient-secondary: 63,122,181;
+  --link-colour: #F40000;
+  --scrollbar-colour: rgb(0,164,255,0.42);
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Tektur;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+/* Round corner sizes, measured in pixel radius.
+Set avatar/server radius to 50% to make them circular.
+   UI radius must be in pixels, otherwise things break. */
+  --dplus-radius-ui: 10px;
+  --dplus-radius-avatar: 20%;
+  --dplus-radius-server: 20%;
+
+/* This decides how much breathing room there should be between things like buttons and content. */
+  --dplus-spacing-ui: 10px;
+
+/* Size of user and server icons */
+--dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-list: 32px;
+--dplus-icon-avatar-profile: 80px;
+
+
+
+
+
